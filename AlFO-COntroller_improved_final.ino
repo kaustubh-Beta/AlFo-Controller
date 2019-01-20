@@ -1,8 +1,8 @@
 /* this is the code for AlFo-Controller A mini project using arduino 
  created by Kaustubh sadekar 
  Date : 20 october 2015
- the basic function of the code is to create a bridge between alfo controller(a gaming device) and the gaming host system
- alfo controler takes basically two saperate inputs , 
+ the basic function of the code is to create a bridge between alfo controller(a gaming device) and the gaming host system.
+ alfo controler takes basically two saperate types of inputs , 
 (i) Moves for locomotion 
 (ii) Moves for special functions like nitor in NFS MW .....
 */
